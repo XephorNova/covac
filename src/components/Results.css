@@ -1,0 +1,16 @@
+.ReactTable {
+    margin-top: 74px;
+}
+
+.ReactTable .rt-tbody {
+    margin-top: 30px;
+}
+
+.ReactTable .rt-thead {
+    background-color: white;
+    position: fixed;
+    top: 1;
+    z-index: 1;
+    width: calc(100% - 17px);
+    height: 31px;
+}
